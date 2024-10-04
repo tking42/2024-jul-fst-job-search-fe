@@ -7,6 +7,7 @@ const SkillBox = ({ setQuery, setHeader, setSelected }) => {
         setQuery('https://job-search-project.2024-thomask.dev.io-academy.uk/jobs?skill=' + id)
         setHeader(`${skill} Jobs`)
         setSelected('')
+        window.scrollTo(0, 0)
     }
 
     useEffect(() => {
