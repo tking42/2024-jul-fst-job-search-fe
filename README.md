@@ -1,11 +1,27 @@
-Job Listing Frontend Website
+## Job Listings Application - README
 
-For this project we have been tasked with creating the front end of a website
-that uses an API to provide our information.
+Introduction
 
-To build this front end we are using React as a library to demonstrate knowledge of component,
-useState, useEffect and lifting state, and we have been using Vite as a compiler.
+Welcome to the Job Listings Application, a React-based front-end that allows users to search and filter job opportunities. This app is designed to help job seekers find relevant positions by filtering jobs based on various criteria like job type and programming skills. It also provides good user experience with features like job detail modals and pagination.
 
-To style the website we have used Bootstrap as a framework.
+Features
 
-This is a team exercise, and we are working in a scrum, and we are working in an AGILE way.
+Search Bar: users can search for job listings using keywords, such as job title or company name.
+
+Filter jobs based on job type: users can filter by job type - full-time, part-time, contract or all jobs.
+
+Filter by Skills/Languages: user can filter by specific skills or programming languages (e.g., JavaScript, Python, Java) so that they can find jobs that match their technical skill set.
+
+View Job Details in a Modal: clicking on any job listing opens a modal with detailed information about the job.
+
+Pagination: the application includes pagination to navigate through the job listings.
+
+Installation & Setup
+
+Clone the Repository: git clone .....
+
+Install Dependencies: navigate to the project directory and install the required dependencies - npm install
+
+Run the Application: to start the development server and run the application locally - npm run dev.
+
+Access the Application: Once the server is running, you can access the job listings app by opening your browser and navigating to http://localhost:5173.
