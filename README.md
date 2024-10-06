@@ -18,7 +18,7 @@ Pagination: the application includes pagination to navigate through the job list
 
 Installation & Setup
 
-Clone the Repository: git clone .....
+Clone the Repository: git clone git@github.com:tking42/2024-jul-fst-job-search-fe.git
 
 Install Dependencies: navigate to the project directory and install the required dependencies - npm install
 
