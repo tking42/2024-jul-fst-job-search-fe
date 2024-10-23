@@ -1,10 +1,10 @@
 ## Job Listings Application - README
 
-Introduction
+# Introduction
 
 Welcome to the Job Listings Application, a React-based front-end that allows users to search and filter job opportunities. This app is designed to help job seekers find relevant positions by filtering jobs based on various criteria like job type and programming skills. It also provides good user experience with features like job detail modals and pagination.
 
-Features
+# Features
 
 Search Bar: users can search for job listings using keywords, such as job title or company name.
 
@@ -16,7 +16,7 @@ View Job Details in a Modal: clicking on any job listing opens a modal with deta
 
 Pagination: the application includes pagination to navigate through the job listings.
 
-Installation & Setup
+# Installation & Setup
 
 Clone the Repository: git clone git@github.com:tking42/2024-jul-fst-job-search-fe.git
 
